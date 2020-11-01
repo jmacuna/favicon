@@ -9,57 +9,57 @@
   "description": "TecnoBlog | Espacio de Tecnología",
   "icons": [
 	{
-      "src": "https://1.bp.blogspot.com/-PD2EvxYuucs/X50vYfyPEaI/AAAAAAAAFbY/iWHEtNgL1KU7vewSusKgnJqSU_eyIuXygCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-7pVUwk1lmns/X50vYpcuXsI/AAAAAAAAFbc/pkSiq1LQO_kZ8Vo1dJKNc2QUwqrqryL7wCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-gdOcvqo6tuE/X51Ru7ikkFI/AAAAAAAAFco/jiz7jP5HF142gZuR4g26UBMNJlsGkngFgCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-fcB8lm3hyfk/X51RvAlkGlI/AAAAAAAAFcs/63DOHmdKTmQ371FWXf_aa3ntPtkYYLfDwCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-76x76.png",
       "sizes": "76x76",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-0cEuvdNZ6bE/X51RsvXyUTI/AAAAAAAAFcU/s4jZAnoCoXQ2rlT6ANA2FVo53SmQvs5OQCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-114x114.png",
       "sizes": "114x114",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-xRT0JXx1D-M/X51RsscCsJI/AAAAAAAAFcQ/kPXPgAjMbWMhGNyXV-r8yq0KkpREB2keQCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-120x120.png",
       "sizes": "120x120",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-1k4gqGUJIcQ/X51RskIBeAI/AAAAAAAAFcY/E9RVAP9wN5gcvRt0fcVfm_Ip53Ma9HBPgCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-nbULfq8mQE0/X51RtQ7XmPI/AAAAAAAAFcc/dB9akxw2HyUNgcWO3PfoKS6I6YCxhiToQCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
 	{
-      "src": "https://1.bp.blogspot.com/-TuOO7S_WKr4/X51Rt6C1VnI/AAAAAAAAFcg/j_IBvk9n6YEmUch_47rf7ZHQnLvj9vhxwCLcBGAsYHQ/",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/apple-touch-icon-180x180.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-sdKXA2wejq8/X50vXXv8OVI/AAAAAAAAFbU/e6lI_zOnqSIAt0w1KZtq_VJG9IFBzMmUwCLcBGAsYHQ/s0/android-chrome-192x192.png",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-bNtruNjbcIU/X50vXVUPFvI/AAAAAAAAFbM/Z1z5KDxo7M0hjztAOdn2ELoeYpzI9p_MQCLcBGAsYHQ/s0/android-chrome-384x384.png",
+      "src": "https://raw.githubusercontent.com/jmacuna/favicon/main/android-chrome-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     }
