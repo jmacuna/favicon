@@ -2,11 +2,11 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="https://1.bp.blogspot.com/-1iF1fe9BqLA/X50vZ8ZE8AI/AAAAAAAAFbs/F0V8G_JCmx4Xo4nDySJ6sfmEOUWAOOGcQCLcBGAsYHQ/s0/small.png"/>
-      <square150x150logo src="https://1.bp.blogspot.com/-6ybhA3kZ1gk/X50vZqHh3RI/AAAAAAAAFbo/yoGkO_9_LqAXXwpXU8x41-PHS9azEhPCACLcBGAsYHQ/s0/medium.png"/>
-      <wide310x150logo src="https://1.bp.blogspot.com/-1y_sEEcpJsQ/X50vaORcuDI/AAAAAAAAFbw/dtxwd7DRm1Q_ZvKJrxwridNvHtKFU1_JACLcBGAsYHQ/s0/wide.png"/>
-      <square310x310logo src="https://1.bp.blogspot.com/-pab6hzZohGo/X50vZCAnd1I/AAAAAAAAFbk/j0NHSP4u4qc41o28s9G42Wns5__LIj5sQCLcBGAsYHQ/s0/large.png"/>
-      <TileImage src="https://1.bp.blogspot.com/-6ybhA3kZ1gk/X50vZqHh3RI/AAAAAAAAFbo/yoGkO_9_LqAXXwpXU8x41-PHS9azEhPCACLcBGAsYHQ/s0/medium.png"></TileImage>
+      <square70x70logo src="./small.png"/>
+      <square150x150logo src="./medium.png"/>
+      <wide310x150logo src="./wide.png"/>
+      <square310x310logo src="./large.png"/>
+      <TileImage src="./medium.png"></TileImage>
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
