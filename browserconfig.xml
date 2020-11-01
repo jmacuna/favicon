@@ -2,11 +2,11 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="./small.png"/>
-      <square150x150logo src="./medium.png"/>
-      <wide310x150logo src="./wide.png"/>
-      <square310x310logo src="./large.png"/>
-      <TileImage src="./medium.png"></TileImage>
+      <square70x70logo src="https://raw.githubusercontent.com/jmacuna/favicon/main/small.png"/>
+      <square150x150logo src="https://raw.githubusercontent.com/jmacuna/favicon/main/medium.png"/>
+      <wide310x150logo src="https://raw.githubusercontent.com/jmacuna/favicon/main/wide.png"/>
+      <square310x310logo src="https://raw.githubusercontent.com/jmacuna/favicon/main/large.png"/>
+      <TileImage src="https://raw.githubusercontent.com/jmacuna/favicon/main/medium.png"></TileImage>
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
